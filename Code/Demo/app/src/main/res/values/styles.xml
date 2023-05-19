@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="editTextStyle">
+        <item name="android:textColor">#FF0000</item>
+        <item name="android:textSize">30sp</item>
+    </style>
+    <style name="editTextStyle2" parent="editTextStyle">
+        <item name="android:textColor">@color/black</item>
+    </style>
+</resources>
